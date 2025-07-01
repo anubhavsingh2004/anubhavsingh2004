@@ -6,26 +6,49 @@
 
 ## 📈 Activity Graph
 
-![Anubhav's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anubhavsingh2004&theme=github-compact)
+[![Anubhav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavsingh2004&theme=github-compact)](https://github.com/anubhavsingh2004)
+
+<sub>If the graph does not appear, you can view your activity at [GitHub Contributions](https://github.com/anubhavsingh2004?tab=overview&from=2023-12-01&to=2023-12-31).</sub>
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
+### Programming Languages
+<p>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+</p>
+
+### Frameworks and Libraries
+<p>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+</p>
+
+### IDEs/Editors
+<p>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/></a>
   <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+</p>
+
+### Version Control
+<p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+### Databases
+<p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+</p>
+
+### Machine Learning/Deep Learning
+<p>
   <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
@@ -45,8 +68,11 @@
 
 ## 🎖️ Badges
 
-<img src="https://img.shields.io/badge/YOLO-badge-blueviolet?style=for-the-badge" alt="YOLO Badge"/>
-<img src="https://img.shields.io/badge/Pull%20Shark-badge-brightgreen?style=for-the-badge" alt="Pull Shark Badge"/>
+<p>
+  <!-- Replace the src below with the actual path to your badge images in your repo's assets folder -->
+  <img src="assets/yolo-badge.png" alt="YOLO Badge" width="80"/>
+  <img src="assets/pull-shark-badge.png" alt="Pull Shark Badge" width="80"/>
+</p>
 
 [![Holopin board](https://holopin.me/anubhav)](https://holopin.io/@anubhav)
 
