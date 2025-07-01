@@ -69,9 +69,15 @@
 ## 🎖️ Badges
 
 <p>
-  <!-- Replace the src below with the actual path to your badge images in your repo's assets folder -->
-  <img src="assets/yolo-badge.png" alt="YOLO Badge" width="80"/>
-  <img src="assets/pull-shark-badge.png" alt="Pull Shark Badge" width="80"/>
+  <!-- To get the actual path to your badge images, upload your images (e.g., yolo-badge.png) to a folder in your repository (commonly named 'assets'). 
+       The path will be relative to your README file. For example, if your image is in an 'assets' folder at the root of your repo, 
+       the path would be 'assets/yolo-badge.png'. 
+       On your GitHub repository page, look for the green 'Code' button near the top right. Next to it, you'll see an 'Add file' button (sometimes shown as a dropdown arrow). Click on 'Add file', then select 'Upload files' from the dropdown menu. This will let you upload images or other files directly to your repository.
+       After uploading, use the relative path in the src attribute like this:
+       <img src="assets/yolo-badge.png" alt="YOLO Badge" width="80"/>
+  -->
+  <img src="yolo-github-badge.png" alt="YOLO Badge" width="80"/>
+  <img src="pull-shark-github-badge.png" alt="Pull Shark Badge" width="80"/>
 </p>
 
 [![Holopin board](https://holopin.me/anubhav)](https://holopin.io/@anubhav)
@@ -79,7 +85,7 @@
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/anubhav-singh-8a6419323/)
+- [LinkedIn: anubhav-singh-8a6419323](https://www.linkedin.com/in/anubhav-singh-8a6419323/)
 
 <!--
 **Pinned Repositories**
